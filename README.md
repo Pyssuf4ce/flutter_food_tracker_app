@@ -35,3 +35,6 @@
 1. **ติดตั้ง dependencies:**
    ```bash
    flutter pub get
+2. **รันแอปพลิเคชัน:**
+   ```bash
+   flutter run
